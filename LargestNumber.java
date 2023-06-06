@@ -1,3 +1,6 @@
+/*
+Given an integer N ie. the size of input, followed by N, more integers, find largest of all numbers.
+*/
 import java.util.Scanner;
 public class LargestNumber
 {
